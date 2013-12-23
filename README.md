@@ -24,7 +24,7 @@ new Dialog(title:String = "提示", content:String = "", buttons:* = null, style
 
 
 demo:http://www.lushaolin.com/dialog4as3/
-
+```actionscript
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase=" http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab #version=6,0,29,0 " width="165" height="120">
     <param name="movie" value="plugin/mp3player.swf">
     <param name="quality" value="low">
@@ -32,3 +32,4 @@ demo:http://www.lushaolin.com/dialog4as3/
     <param name="menu" value="false">
     <embed src="plugin/mp3player.swf" quality="low" pluginspage=" http://www.macromedia.com/go/getflashplayer " type="application/x-shockwave-flash" width="166" height="120"></embed>
 </object>
+```
